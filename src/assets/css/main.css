@@ -193,8 +193,9 @@ section {
 .header .logo span {
   color: var(--color-primary);
   font-size: 24px;
-  font-weight: 600;
-  padding-left: 3px;
+  font-weight: 700;
+  padding-left: 1px;
+  font-family: var(--font-primary);
 }
 
 .header .btn-getstarted,
